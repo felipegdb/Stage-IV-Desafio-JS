@@ -6,7 +6,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
 # Desafio Rocketseat - Scripts JavaScript
 
-Este repositório contém uma série de scripts JavaScript desenvolvidos como parte de um desafio da Rocketseat. Cada script aborda um conceito diferente da linguagem JavaScript e pode ser executado tanto no console quanto em um alerta no navegador.
+Este repositório contém uma série de scripts JavaScript desenvolvidos como parte de um desafio da Rocketseat. Cada script aborda um conceito diferente da linguagem JavaScript e pode ser executado tanto no console quanto em um alerta no navegador. Cada pasta contém um script e um arquivo HTML executável. Para testá-los basta clicar no arquivo HTML da respectiva pasta.
 
 ## Desafios
 
@@ -47,3 +47,7 @@ Este repositório contém uma série de scripts JavaScript desenvolvidos como pa
 ```bash
 git clone
 
+```
+
+
+2. Clique no arquivo HTML da respectiva pasta.
